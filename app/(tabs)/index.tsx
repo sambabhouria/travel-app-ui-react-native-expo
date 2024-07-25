@@ -31,7 +31,9 @@ const Page = () => {
     <>
       <Stack.Screen
         options={{
-          headerTransparent: true, // having the same color with the rest of the page
+          headerTransparent: true, // having the same color with the rest of the page,
+          // if we set headerTransparent to true , if the content of page have not style , will go to the page
+          // for fix that ==>  const headerHeight = useHeaderHeight()
           headerTitle: '',
           headerLeft: () => (
             <TouchableOpacity onPress={() => {}} style={{ marginLeft: 20 }}>
