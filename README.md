@@ -3,8 +3,7 @@
   <h3 align="left"> 📸 Screenshot</h3>
   
   ![app](/1.png)![app](/2.png)
-  ![app](/3.png)![app](/4.png)
-  ![app](/5.png)
+  ![app](/3.png)![app](/4.png)![app](/5.png)
 
 # Timestam
 
